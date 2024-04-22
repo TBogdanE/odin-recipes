@@ -1,2 +1,2 @@
-On this website, we will write a small recipes, following the TOP 
+On this website, we will write a small recipe, following the TOP 
 Project!
